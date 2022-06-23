@@ -2,7 +2,7 @@
 
 Helps setting up mock environment for [wcm.io WCM][wcmio-wcm] Commons.
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.testing.wcm-io-mock.wcm/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.wcm/io.wcm.testing.wcm-io-mock.wcm)
+[![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.wcm-io-mock.wcm)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.wcm-io-mock.wcm/)
 
 
 ### Documentation
