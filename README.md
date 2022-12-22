@@ -7,7 +7,7 @@
 Helps setting up mock environment for wcm.io WCM Commons.
 
 Documentation: https://wcm.io/testing/wcm-io-mock/wcm/<br/>
-Issues: https://wcm-io.atlassian.net/browse/WTES<br/>
+Issues: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.wcm/issues<br/>
 Wiki: https://wcm-io.atlassian.net/wiki/<br/>
 Continuous Integration: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.wcm/actions<br/>
 Commercial support: https://wcm.io/commercial-support.html
