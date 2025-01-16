@@ -8,7 +8,7 @@ Helps setting up mock environment for [wcm.io WCM][wcmio-wcm] Commons.
 ### Documentation
 
 * [API documentation](apidocs/)
-* [Changelog](changes-report.html)
+* [Changelog](changes.html)
 
 
 ### AEM Version Support Matrix
